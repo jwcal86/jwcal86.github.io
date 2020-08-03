@@ -1,0 +1,14 @@
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: Helvetica;
+  font-size:1.75em;
+}
+
+p {
+  height: 150px;
+  margin: 20px;
+  font-family: Helvetica;
+  clear: both;
+  padding-top:10px;
+
